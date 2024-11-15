@@ -1,0 +1,15 @@
+- src/
+  - ArrayStack.cpp
+  - LinkedListStack.cpp
+  - ArrayQueue.cpp
+  - LinkedListQueue.cpp
+  - PrintQueue.cpp
+  - StringReversal.cpp
+- tests/
+  - test_ArrayStack.cpp
+  - test_LinkedListStack.cpp
+  - test_ArrayQueue.cpp
+  - test_LinkedListQueue.cpp
+  - test_PrintQueue.cpp
+- README.md
+- report.pdf (for algorithm analysis)
